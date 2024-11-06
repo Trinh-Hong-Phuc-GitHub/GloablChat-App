@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "689249161770",
+    "project_id": "globalchat-fc519",
+    "storage_bucket": "globalchat-fc519.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689249161770:android:950e1d77c0364a36452953",
+        "android_client_info": {
+          "package_name": "com.example.globalchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAILZZAfGgGXQiYfpEY561dTBa5d3AISd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
